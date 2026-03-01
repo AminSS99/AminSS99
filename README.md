@@ -24,6 +24,17 @@ Beyond our core products, SnapSolve operates as a high-speed development engine.
 * **Fintech & Payments:** Integrating complex payment systems, including **Apple Pay**, **Google Pay**, and custom **Gift Card** solutions.
 * **Full-Stack Mobile:** Native and cross-platform mobile apps built with a "Design-First" philosophy.
 
+#### 👁️ LensAI: Vision as an Interface
+
+LensAI is an intelligent visual companion that bridges perception and reasoning. Built as a production-ready Telegram AI assistant, it converts images into structured, contextual, and actionable outputs.
+* **🔗 Repo: https://github.com/YOUR_USERNAME/LensAI
+* **🤖 Live Bot: https://t.me/tecknaibot
+LensAI embodies SnapSolve’s philosophy:
+
+Build systems, not just apps.
+
+It is not just image recognition — it is visual cognition operationalized.
+
 ---
 
 ### 🛠️ Technical Arsenal
