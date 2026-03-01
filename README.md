@@ -24,16 +24,22 @@ Beyond our core products, SnapSolve operates as a high-speed development engine.
 * **Fintech & Payments:** Integrating complex payment systems, including **Apple Pay**, **Google Pay**, and custom **Gift Card** solutions.
 * **Full-Stack Mobile:** Native and cross-platform mobile apps built with a "Design-First" philosophy.
 
-#### 👁️ LensAI: Vision as an Interface
+## 📰 LensAI: AI-Powered Tech Intelligence
 
-LensAI is an intelligent visual companion that bridges perception and reasoning. Built as a production-ready Telegram AI assistant, it converts images into structured, contextual, and actionable outputs.
-* **🔗 Repo: https://github.com/YOUR_USERNAME/LensAI
-* **🤖 Live Bot: https://t.me/tecknaibot
-LensAI embodies SnapSolve’s philosophy:
+LensAI is an AI-powered tech news aggregator that delivers personalized daily digests via Telegram. It scrapes top tech sources, summarizes them with AI, and sends you the most important stories — so you never miss what matters in AI and tech.
 
-Build systems, not just apps.
+🔗 **Repository:** https://github.com/AminSS99/LensAI  
+🤖 **Live Bot:** https://t.me/tecknaibot  
 
-It is not just image recognition — it is visual cognition operationalized.
+### Key Highlights
+
+- 📰 **Multi-source aggregation** — Hacker News, TechCrunch, AI company blogs (Anthropic, DeepSeek, Qwen, Google AI, Mistral, DeepMind), The Verge, GitHub Trending  
+- 🤖 **AI summarization** — DeepSeek creates digestible, curated digests  
+- 🔖 **Article saving** — Save interesting articles to your personal collection  
+- 💬 **Q&A Chat** — Ask any tech question and get AI-powered answers  
+- ⏰ **Scheduled delivery** — Set your preferred daily digest time  
+- 🌐 **Multi-language** — Full support for English, Russian, and Azerbaijani  
+- ☁️ **Cloud-native** — Runs 24/7 on Google Cloud Functions with Firestore
 
 ---
 
