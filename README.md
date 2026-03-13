@@ -1,49 +1,69 @@
 # Hi, I'm Amin Sobor 👋
-| 🤖 ML Specialist & Full-stack Developer | 🚀 Founder & CEO @ [SnapSolve.ink](https://snapsolve.ink)
 
-I am an ML Engineer and Full-stack Developer focused on the intersection of intelligence and visceral design. Currently, I am architecting **SnapSolve**, a unified ecosystem where high-performance engineering meets fluid, high-fidelity user experiences.
+🤖 **ML Specialist & Full-stack Developer**
+🚀 **Founder & CEO @ [SnapSolve.ink](https://snapsolve.ink)**
+
+I’m an ML engineer and full-stack developer focused on the intersection of intelligence and high-fidelity product design. I’m currently building **SnapSolve**: a unified ecosystem where high-performance engineering meets fluid user experiences.
 
 ---
 
-### 🏢 The SnapSolve Ecosystem
+## 🔎 At a Glance
+
+- Building a multi-product SaaS ecosystem under **SnapSolve**
+- Shipping AI-powered products, including **LensAI**
+- Working across ML, backend systems, and polished front-end experiences
+- Open to collaborations in AI, SaaS, fintech, and e-commerce
+
+---
+
+## 🏢 The SnapSolve Ecosystem
+
 **One Subscription. Zero Friction.**
-By joining the SnapSolve ecosystem, users unlock a unified suite of tools where design is the primary language. Your subscription carries across the entire family of apps, ensuring a beautiful, fast, and intelligent experience whether you are organizing, comparing, or syncing.
 
-#### 🦞 Later: The High-Fidelity Productivity Suite
-Later isn't just a workspace; it’s a living interface. Combining the structural depth of **Notion** with the agility of **TickTick**, Later redefines productivity through visceral feedback. Every task completed and every page transitioned is met with Duolingo-style charm and Phantom-tier fluidity.
+The SnapSolve ecosystem is a connected suite of tools with a shared design language and unified subscription model. Users move across products without re-learning workflows, while benefiting from speed, visual clarity, and intelligent automation.
 
-#### 🚇 Relay: The Infinite Team Clipboard
-The invisible thread connecting your devices and your team. Relay is a cloud-synced clipboard that lives in your system tray, your browser, and your pocket. Copy a snippet of code, a video, or a design asset, and it "relays" to your teammates instantly.
+### 🦞 Later: High-Fidelity Productivity Suite
 
-#### 🎚️ SideBy: The Intelligence Engine for Comparison
-SideBy eliminates "tab-fatigue" by providing a definitive, AI-driven comparison framework for everything. Whether you are weighing **Rust vs. Go** or **Tokyo vs. Lisbon**, SideBy visualizes data through interactive, animated graphs and side-by-side modules.
+Later combines the structural depth of **Notion** with the agility of **TickTick**. It is designed to make productivity feel alive through responsive interactions, smooth transitions, and rewarding feedback loops.
 
-#### 🧪 Software Delivery & Custom Development
-Beyond our core products, SnapSolve operates as a high-speed development engine. We are constantly launching new **mini-SaaS products** and delivering bespoke software:
-* **E-commerce & Luxury Retail:** Architecting "revenue engines" and high-conversion platforms with rapid turnaround.
-* **Fintech & Payments:** Integrating complex payment systems, including **Apple Pay**, **Google Pay**, and custom **Gift Card** solutions.
-* **Full-Stack Mobile:** Native and cross-platform mobile apps built with a "Design-First" philosophy.
+### 🚇 Relay: Infinite Team Clipboard
+
+Relay is a cloud-synced clipboard that lives in your system tray, browser, and phone. Copy code, media, or design assets once and have them instantly available to your team across devices.
+
+### 🎚️ SideBy: AI Comparison Engine
+
+SideBy reduces tab fatigue with AI-assisted, side-by-side comparison workflows. Whether evaluating **Rust vs. Go** or **Tokyo vs. Lisbon**, it presents decisions with interactive visualizations.
+
+### 🧪 Software Delivery & Custom Development
+
+Beyond core products, SnapSolve also operates as a rapid software delivery engine:
+
+- **E-commerce & Luxury Retail:** High-conversion storefronts and revenue-focused platforms
+- **Fintech & Payments:** Apple Pay, Google Pay, and custom gift card/payment integrations
+- **Full-Stack Mobile:** Native and cross-platform apps with a design-first approach
+
+---
 
 ## 📰 LensAI: AI-Powered Tech Intelligence
 
-LensAI is an AI-powered tech news aggregator that delivers personalized daily digests via Telegram. It scrapes top tech sources, summarizes them with AI, and sends you the most important stories — so you never miss what matters in AI and tech.
+LensAI is an AI-powered tech news aggregator that delivers personalized daily digests via Telegram. It collects updates from top tech sources, summarizes them with AI, and sends the most relevant stories so you never miss what matters.
 
-🔗 **Repository:** https://github.com/AminSS99/LensAI  
-🤖 **Live Bot:** https://t.me/tecknaibot  
+- 🔗 **Repository:** https://github.com/AminSS99/LensAI
+- 🤖 **Live Bot:** https://t.me/tecknaibot
 
 ### Key Highlights
 
-- 📰 **Multi-source aggregation** — Hacker News, TechCrunch, AI company blogs (Anthropic, DeepSeek, Qwen, Google AI, Mistral, DeepMind), The Verge, GitHub Trending  
-- 🤖 **AI summarization** — DeepSeek creates digestible, curated digests  
-- 🔖 **Article saving** — Save interesting articles to your personal collection  
-- 💬 **Q&A Chat** — Ask any tech question and get AI-powered answers  
-- ⏰ **Scheduled delivery** — Set your preferred daily digest time  
-- 🌐 **Multi-language** — Full support for English, Russian, and Azerbaijani  
+- 📰 **Multi-source aggregation** — Hacker News, TechCrunch, The Verge, GitHub Trending, and leading AI labs
+- 🤖 **AI summarization** — Curated daily digests generated with DeepSeek
+- 🔖 **Article saving** — Save important reads to your personal collection
+- 💬 **Q&A chat** — Ask tech questions and get AI-powered responses
+- ⏰ **Scheduled delivery** — Set your preferred digest time
+- 🌐 **Multi-language** — English, Russian, and Azerbaijani support
 - ☁️ **Cloud-native** — Runs 24/7 on Google Cloud Functions with Firestore
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -55,19 +75,22 @@ LensAI is an AI-powered tech news aggregator that delivers personalized daily di
 
 ---
 
-### 🧠 Specialized Focus
-* **Scalable Infrastructure:** Architecting microservices with **Kubernetes** and **GCP** for global availability.
-* **Advanced Intelligence:** Implementing **ML Algorithms** and **Statistical Data Analysis** to power predictive features in the SnapSolve suite.
-* **Engineering Excellence:** Focused on **Algorithms**, **Data Structures**, and high-performance backend systems in Java and Python.
+## 🧠 Specialized Focus
+
+- **Scalable Infrastructure:** Microservices architecture with **Kubernetes** and **GCP**
+- **Applied Intelligence:** ML algorithms and statistical analysis for product features
+- **Engineering Excellence:** Performance-minded backend systems with Java and Python
 
 ---
 
-### 📬 Connect with me
+## 📬 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-sobor-9a459a298)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminSS99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminsoborr@gmail.com)
 
 ---
 
-### 📜 Philosophy
+## 📜 Philosophy
+
 > "Build systems, not just apps. Automate the friction, amplify the focus."
