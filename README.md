@@ -10,9 +10,9 @@ I’m an ML engineer and full-stack developer focused on the intersection of int
 ## 🔎 At a Glance
 
 - Building a multi-product SaaS ecosystem under **SnapSolve**
-- Shipping AI-powered products, including **LensAI**
+- Shipping AI-powered products, including **LensAI**, **SideBy**, **Orizonte**, and **Relay**
 - Working across ML, backend systems, and polished front-end experiences
-- Open to collaborations in AI, SaaS, fintech, and e-commerce
+- Open to collaborations in AI, SaaS, fintech, event-tech, and e-commerce
 
 ---
 
@@ -34,12 +34,24 @@ Relay is a cloud-synced clipboard that lives in your system tray, browser, and p
 
 SideBy reduces tab fatigue with AI-assisted, side-by-side comparison workflows. Whether evaluating **Rust vs. Go** or **Tokyo vs. Lisbon**, it presents decisions with interactive visualizations.
 
+### 🧭 Orizonte: Subscription Intelligence
+
+Orizonte is a subscription intelligence product for tracking plans, renewals, usefulness, overlap, trials, and buy-or-skip decisions.
+
+### 🎟️ Rallia: Premium Event Creation & RSVP
+
+Rallia is an event creation and invitation platform for beautiful event pages, guest RSVP flows, contribution coordination, and host tools.
+
+### 📱 RalliaMobile: Mobile Event Workflows
+
+RalliaMobile extends Rallia into mobile-first guest and host workflows.
+
 ### 🧪 Software Delivery & Custom Development
 
 Beyond core products, SnapSolve also operates as a rapid software delivery engine:
 
 - **E-commerce & Luxury Retail:** High-conversion storefronts and revenue-focused platforms
-- **Fintech & Payments:** Apple Pay, Google Pay, and custom gift card/payment integrations
+- **Fintech & Payments:** Payment integrations and product monetization systems
 - **Full-Stack Mobile:** Native and cross-platform apps with a design-first approach
 
 ---
