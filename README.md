@@ -10,25 +10,33 @@ I’m an ML engineer and full-stack developer focused on the intersection of int
 ## 🔎 At a Glance
 
 - Building a multi-product SaaS ecosystem under **SnapSolve**
-- Shipping AI-powered products, including **LensAI**, **SideBy**, **Orizonte**, and **Relay**
+- Building **SideBy**, **Orizonte**, and **Rallia**, alongside open-source developer tools **Attest** and **Stackfold**
 - Working across ML, backend systems, and polished front-end experiences
 - Open to collaborations in AI, SaaS, fintech, event-tech, and e-commerce
 
 ---
 
+## 🧰 Open-Source Developer Tools
+
+### [Attest](https://github.com/AminSS99/Attest) — Check Android releases before you ship
+
+Compare Android APK/AAB builds, catch mismatches in privacy declarations and reviewer journeys, and generate verifiable release evidence. Attest runs locally and produces a Release Passport with an offline-verifiable Evidence Capsule.
+
+**Status:** Developer preview. The first real Android release pilot is pending.
+
+### [Stackfold](https://github.com/AminSS99/StackFold) — Understand your codebase and the impact of a change
+
+Map your JavaScript and TypeScript codebase, trace dependencies, and see what a code change could affect. Explore architecture, API flows, database relations, and package dependencies with links back to source.
+
+**Status:** Early alpha. Start with the source installation guide; the published macOS download is older than the current source and unsigned.
+
+---
+
 ## 🏢 The SnapSolve Ecosystem
 
-**One Subscription. Zero Friction.**
+**Building toward one workspace and one subscription.**
 
-The SnapSolve ecosystem is a connected suite of tools with a shared design language and unified subscription model. Users move across products without re-learning workflows, while benefiting from speed, visual clarity, and intelligent automation.
-
-### 🦞 Later: High-Fidelity Productivity Suite
-
-Later combines the structural depth of **Notion** with the agility of **TickTick**. It is designed to make productivity feel alive through responsive interactions, smooth transitions, and rewarding feedback loops.
-
-### 🚇 Relay: Infinite Team Clipboard
-
-Relay is a cloud-synced clipboard that lives in your system tray, browser, and phone. Copy code, media, or design assets once and have them instantly available to your team across devices.
+SnapSolve brings together productivity apps and developer tools with a shared design language. The goal is a connected workspace with shared subscription benefits and rewards across products.
 
 ### 🎚️ SideBy: AI Comparison Engine
 
