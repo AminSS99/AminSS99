@@ -12,25 +12,33 @@ Soy ingeniero de ML y desarrollador full-stack enfocado en la intersección entr
 ## 🔎 De un Vistazo
 
 - Construyendo un ecosistema SaaS multiproducto bajo **SnapSolve**
-- Lanzando productos impulsados por IA, incluyendo **LensAI**, **SideBy**, **Orizonte** y **Relay**
+- Construyendo **SideBy**, **Orizonte** y **Rallia**, junto con las herramientas de código abierto **Attest** y **Stackfold**
 - Trabajando en ML, sistemas backend y experiencias frontend pulidas
 - Abierto a colaboraciones en IA, SaaS, fintech, event-tech y e-commerce
 
 ---
 
+## 🧰 Herramientas de Código Abierto para Desarrolladores
+
+### [Attest](https://github.com/AminSS99/Attest) — Revisa tus versiones de Android antes de publicarlas
+
+Compara compilaciones APK/AAB de Android, detecta discrepancias con las declaraciones de privacidad y los recorridos de revisión, y genera evidencia verificable de la versión. Attest funciona localmente y produce un Release Passport con una Evidence Capsule verificable sin conexión.
+
+**Estado:** Versión preliminar para desarrolladores. El primer piloto con una versión real de Android está pendiente.
+
+### [Stackfold](https://github.com/AminSS99/StackFold) — Comprende tu código y el impacto de un cambio
+
+Mapea tu código JavaScript y TypeScript, sigue sus dependencias y descubre qué podría verse afectado por un cambio. Explora la arquitectura, los flujos de API, las relaciones de bases de datos y las dependencias de paquetes con enlaces al código fuente.
+
+**Estado:** Alpha inicial. Empieza por la guía de instalación desde el código fuente; la descarga publicada para macOS es anterior al código actual y no está firmada.
+
+---
+
 ## 🏢 El Ecosistema SnapSolve
 
-**Una Suscripción. Cero Fricción.**
+**Hacia un espacio de trabajo y una suscripción compartidos.**
 
-El ecosistema SnapSolve es un conjunto de herramientas conectadas con un lenguaje de diseño compartido y un modelo de suscripción unificado. Los usuarios se desplazan entre productos sin necesidad de reaprender flujos de trabajo, mientras se benefician de la velocidad, claridad visual y automatización inteligente.
-
-### 🦞 Later: Suite de Productividad de Alta Fidelidad
-
-Later combina la profundidad estructural de **Notion** con la agilidad de **TickTick**. Está diseñado para que la productividad se sienta viva a través de interacciones responsivas, transiciones fluidas y ciclos de retroalimentación gratificantes.
-
-### 🚇 Relay: Portapapeles Infinito para Equipos
-
-Relay es un portapapeles sincronizado en la nube que reside en tu bandeja del sistema, navegador y teléfono. Copia código, medios o activos de diseño una vez y tenlos disponibles al instante para tu equipo en todos los dispositivos.
+SnapSolve reúne aplicaciones de productividad y herramientas para desarrolladores con un lenguaje de diseño compartido. El objetivo es un espacio de trabajo conectado con beneficios de suscripción y recompensas entre productos.
 
 ### 🎚️ SideBy: Motor de Comparación con IA
 
